@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+.woo{
+  position: relative;
+  background-image: url(cvsuu.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 91vh; 
+  background-color: rgba(0, 0, 0, 0.6); 
+  background-blend-mode: darken;  
+}
+
+.WOO{
+    display: flex;
+    align-items: center;
+}
+
+
+.navbar{
+    background-color: #067626 !important;
+    display: block;
+}
+
+
+
+
+.navbar a{
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar li{
+    list-style-type: none;
+}
+
+
+.navbar a:hover{
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.front{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#066411;
+    font-size: 90px;
+}
+.front-1{
+  color: rgb(255, 255, 255)
+ 
+}
+.front img{
+    width: 180px;
+    height: 180px;
+    display: flex;
+    margin: auto;
+}
+
+.container{
+    margin-top: 30vh;
+}
+
+
+.clapp-rt{
+    font-size: 90px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+
+
+
+.card a{
+    color: #fff;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.card a:hoveR{
+    color: #fff;
+}
+
+
+.card{
+    border: none;
+    background-color: #1b651b;
+    color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.8);
+}
