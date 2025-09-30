@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body {
+  background-image: url(cvsuu.jpg);
+  background-size: cover;
+}
+.navbar{
+    background-color: #067626 !important;
+    display: block;
+}
+
+
+.navbar a{
+    color: #fff;
+    font-size: 20px;
+}
+
+
+.navbar a:hover{
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.front{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#066411;
+    font-size: 90px;
+}
+.front-1{
+  color: rgb(255, 255, 255)
+ 
+}
+.front img{
+    width: 180px;
+    height: 180px;
+    display: flex;
+    margin: auto;
+}
+
+
+.clapp-rt{
+    font-size: 90px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+.front p{
+    font-size: 13px !important;
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+
+.WOO{
+    height: 70vh !important;
+}
+
+
+.card a{
+    color: #fff;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.card a:hoveR{
+    color: #fff;
+}
+
+
+.card{
+    border: none;
+    background-color: #1b651b;
+    color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.8);
+}
